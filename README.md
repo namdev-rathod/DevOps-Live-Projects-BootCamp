@@ -2,7 +2,11 @@
 
 ## BootCamp Details
 
-**Fees** : Rs.9999/-
+**Fees** : 
+
+**For India**: Rs.11999/-
+
+**Outside India** : $250
 
 **Mode** : Online
 
