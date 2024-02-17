@@ -33,3 +33,31 @@
  - Database Migration From On-Prem To Cloud
  - Server Migration From On-Prem To Cloud
  - Architecture Diagram
+
+# Day-6 : DevOps Project - 5 ( Monitoring )
+ - Installation & Configuration Of Nagios/Grafana/CloudWatch
+ - Configuration of Metrics, Dashboard & Alerts
+
+# Day-7 : DevOps Project - 6 ( Git/GitHub )
+ - Git Project Setup
+ - Git Commands
+ - Repo Management
+ - Git workflow
+ - Branching Strategy
+   
+# Day-8 : DevOps Project - 7 ( CICD )
+ - Installation & Configuration Jenkins
+ - Pipeline Setup
+ - Deployments
+ - Monitoring & Troubleshooting
+
+# Day-9 : DevOps Project - 8 ( Terraform )
+ - Project Setup
+ - Integration With AWS
+ - Deploy Resources
+
+# Day-10 : DevOps Project - 9 ( Kubernetes )
+ - Create EKS Cluster
+ - EKS Architecture
+ - Deploy Sample Application
+
