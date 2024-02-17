@@ -1,10 +1,15 @@
 # DevOps-Live-Projects-BootCamp - 10 Days
 
 ## BootCamp Details
+
 **Fees** : Rs.9999/-
+
 **Mode** : Online
+
 **Duration** : 10 Days
+
 **When** : Sat-Sun Only
+
 **Start Date** : 2nd March 2024
 
 **How To Pay**?
