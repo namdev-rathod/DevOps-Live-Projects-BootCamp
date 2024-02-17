@@ -2,13 +2,21 @@
 
 ## BootCamp Details
 **Fees** : Rs.9999/-
-**How To Pay** : 
+**Mode** : Online
+**Duration** : 10 Days
+**When** : Sat-Sun Only
+**Start Date** : 2nd March 2024
+
+**How To Pay**?
+
 **For India**
 
+![gpay](https://github.com/namdev-rathod/DevOps-Live-Projects-BootCamp/assets/140707502/4c9b575d-a262-4fdb-a3a9-57fc780a60f6)
+
+
 **Outside India**
-- Use 
-
-
+- Use https://www.remitly.com/us/en/india
+- Use https://www.buymeacoffee.com/namdevrathod
 
 # Day-1 : Project Overview
  - Requirements Gathering
