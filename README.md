@@ -1,4 +1,14 @@
-# DevOps-Live-Projects-BootCamp - 5 Days
+# DevOps-Live-Projects-BootCamp - 10 Days
+
+## BootCamp Details
+**Fees** : Rs.9999/-
+**How To Pay** : 
+**For India**
+
+**Outside India**
+- Use 
+
+
 
 # Day-1 : Project Overview
  - Requirements Gathering
